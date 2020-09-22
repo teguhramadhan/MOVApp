@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MOV App</string>
+    <string name="logo_mov_text">logo mov</string>
+    <string name="skip_textBtn">skip</string>
+    <string name="next_textBtn">next</string>
+    <string name="onboarding_one_desc">Its easier to find out which films\nare currently showing</string>
+    <string name="onboarding_two_desc">Dont worry about missing the\nlatest movies</string>
+    <string name="onboarding_three_desc">Use Wallet for movie ticket transactions</string>
+    <string name="onboarding_one_title">now playing</string>
+    <string name="onboarding_two_title">pre sale</string>
+    <string name="onboarding_three_title">cashless</string>
+    <string name="sign_in_title">Sign In</string>
+    <string name="username_field_label">Username</string>
+    <string name="password_field_label">Password</string>
+    <string name="signin_textBtn">Sign In</string>
+    <string name="sign_up_title">Sign Up</string>
+    <string name="fullname_field_label">Name</string>
+    <string name="email_field_label">Email Address</string>
+    <string name="photoscreen_title">Photo</string>
+    <string name="uploadlater_textBtn">Upload Later</string>
+    <string name="welcome_name">Welcome,\nTeguh Ramadhan</string>
+    <string name="save_textBtn">Save</string>
+    <string name="seat_textBtn">Choose Seat</string>
+    <string name="purchase_textBtn">Purchase</string>
+    <string name="Checkout_title">Checkout</string>
+    <string name="cancel_textBtn">Cancel</string>
+    <string name="edit_profile_title">Edit Profile</string>
+    <string name="mywallet_title">MyWallet</string>
+    <string name="history_title">My History</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
