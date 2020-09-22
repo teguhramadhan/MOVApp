@@ -24,7 +24,8 @@
         android:roundIcon="@mipmap/ic_launcher"
         android:supportsRtl="true"
         android:theme="@style/AppTheme.noActionbar">
-        <activity android:name=".home.ticket.TicketActivity"></activity>
+        <activity android:name=".ComingSoonPageActivity"></activity>
+        <activity android:name=".home.ticket.TicketActivity" />
         <activity android:name=".checkout.CheckoutSuccessActivity" />
         <activity android:name=".SplashScreenActivity">
             <intent-filter>
